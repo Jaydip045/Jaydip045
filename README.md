@@ -21,28 +21,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jaydip045&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🚀 Featured Projects
-
-### 🔹 1. Backend API System
-- Built using **Java + Spring Boot**
-- Implemented REST APIs with authentication
-- Integrated MySQL database  
-👉 https://github.com/Jaydip045/your-repo
-
----
-
-### 🔹 2. Cloud Deployment Project
-- Deployed application on **AWS (EC2/S3)**
-- Used Docker for containerization  
-👉 https://github.com/Jaydip045/your-repo
-
----
-
-### 🔹 3. DSA Practice Tracker
-- Tracks solved problems and progress
-- Built with Java / Web stack  
-👉 https://github.com/Jaydip045/your-repo
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
