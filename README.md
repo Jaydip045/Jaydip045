@@ -1,12 +1,11 @@
-## Hey there..! I'm Jaydip 👋🏻
 <h1 align="center">
-  Hi 👋, I'm Jaydip
+  Hi 👋🏻, I'm Jaydip
 </h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;DSA+Enthusiast;Cloud+%26+DevOps+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
-# 💫 About Me:
+
+## 💫 About Me:
 🔭 I’m currently working on  <br>- Scalable backend projects using Java  <br>- Strengthening DSA for technical interviews  <br><br>👯 I’m looking to collaborate on  <br>- Open-source backend or cloud-based projects  <br>- Innovative student tech projects  <br><br>🤝 I’m looking for help with  <br>- System Design and distributed systems  <br>- Advanced DevOps workflows and cloud deployment  <br><br>🌱 I’m currently learning  <br>- Advanced DSA & problem-solving  <br>- AWS Cloud & deployment strategies  <br>- Docker, Kubernetes, and CI/CD  <br><br>💬 Ask me about  <br>- Java, OOP, and backend basics  <br>- DSA preparation strategies  <br>- Getting started with Cloud & DevOps  <br><br>⚡ Fun fact  <br>- I believe consistency beats talent when learning to code 💡  
 
 ## 🌐 Socials:
