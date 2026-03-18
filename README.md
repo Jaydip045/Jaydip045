@@ -2,7 +2,7 @@
   Hi 👋🏻, I'm Jaydip
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;Java+Backend+Developer;DSA+Problem+Solver;Cloud+%26+DevOps+Enthusiast&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Ideas+into+Code;Java+Backend+Developer;DSA+Problem+Solver;Future+Software+Engineer&center=true&width=500&height=50">
 </p>
 
 ## 💫 About Me:
