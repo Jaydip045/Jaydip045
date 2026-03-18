@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydip045&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies/ Certificates 🏅
-[![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Certified-red?style=for-the-badge)](https://www.linkedin.com/posts/jaydip-vasava-514a88317_ethical-hacking-cybersecurity-certification-activity-7369259176046366720-QcEc)
+[![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Certificate-red?style=for-the-badge)](https://www.linkedin.com/posts/jaydip-vasava-514a88317_ethical-hacking-cybersecurity-certification-activity-7369259176046366720-QcEc)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
