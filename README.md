@@ -6,10 +6,6 @@
 </p>
 
 ## 💫 About Me
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;DSA+Problem+Solver;Cloud+%26+DevOps+Learner;Building+Scalable+Systems;Always+Learning+New+Things&center=true&width=500&height=50">
-</p>
-
 - 🚀 Building backend projects with Java  
 - 🧠 Practicing DSA for interviews  
 - ☁️ Learning Cloud & DevOps (AWS, Docker, CI/CD)  
