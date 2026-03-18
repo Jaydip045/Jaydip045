@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Ideas+into+Code;Java+Backend+Developer;Problem+Solver;Future+Software+Engineer&center=true&width=500&height=50">
 </p>
 
-### 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on  <br>- Scalable backend projects using Java  <br>- Strengthening DSA for technical interviews  <br><br>👯 I’m looking to collaborate on  <br>- Open-source backend or cloud-based projects  <br>- Innovative student tech projects  <br><br>🤝 I’m looking for help with  <br>- System Design and distributed systems  <br>- Advanced DevOps workflows and cloud deployment  <br><br>🌱 I’m currently learning  <br>- Advanced DSA & problem-solving  <br>- AWS Cloud & deployment strategies  <br>- Docker, Kubernetes, and CI/CD  <br><br>💬 Ask me about  <br>- Java, OOP, and backend basics  <br>- DSA preparation strategies  <br>- Getting started with Cloud & DevOps  <br><br>⚡ Fun fact  <br>- I believe consistency beats talent when learning to code 💡  
 
 ## 🌐 Socials:
@@ -20,6 +20,28 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jaydip045&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🚀 Featured Projects
+
+### 🔹 1. Backend API System
+- Built using **Java + Spring Boot**
+- Implemented REST APIs with authentication
+- Integrated MySQL database  
+👉 https://github.com/Jaydip045/your-repo
+
+---
+
+### 🔹 2. Cloud Deployment Project
+- Deployed application on **AWS (EC2/S3)**
+- Used Docker for containerization  
+👉 https://github.com/Jaydip045/your-repo
+
+---
+
+### 🔹 3. DSA Practice Tracker
+- Tracks solved problems and progress
+- Built with Java / Web stack  
+👉 https://github.com/Jaydip045/your-repo
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
