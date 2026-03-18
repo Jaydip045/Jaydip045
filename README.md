@@ -18,8 +18,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Jaydip045&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydip045&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jaydip045&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies/ Certificates 🏅
+[![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Certified-red?style=for-the-badge)](https://www.linkedin.com/posts/jaydip-vasava-514a88317_ethical-hacking-cybersecurity-certification-activity-7369259176046366720-QcEc)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
