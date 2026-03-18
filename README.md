@@ -5,8 +5,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Ideas+into+Code;Java+Backend+Developer;Problem+Solver;Future+Software+Engineer&center=true&width=500&height=50">
 </p>
 
-## 💫 About Me:
-🔭 I’m currently working on  <br>- Scalable backend projects using Java  <br>- Strengthening DSA for technical interviews  <br><br>👯 I’m looking to collaborate on  <br>- Open-source backend or cloud-based projects  <br>- Innovative student tech projects  <br><br>🤝 I’m looking for help with  <br>- System Design and distributed systems  <br>- Advanced DevOps workflows and cloud deployment  <br><br>🌱 I’m currently learning  <br>- Advanced DSA & problem-solving  <br>- AWS Cloud & deployment strategies  <br>- Docker, Kubernetes, and CI/CD  <br><br>💬 Ask me about  <br>- Java, OOP, and backend basics  <br>- DSA preparation strategies  <br>- Getting started with Cloud & DevOps  <br><br>⚡ Fun fact  <br>- I believe consistency beats talent when learning to code 💡  
+## 💫 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;DSA+Problem+Solver;Cloud+%26+DevOps+Learner;Building+Scalable+Systems;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
+
+- 🚀 Building backend projects with Java  
+- 🧠 Practicing DSA for interviews  
+- ☁️ Learning Cloud & DevOps (AWS, Docker, CI/CD)  
+- 🤝 Open to collaboration & learning  
+
+⚡ *Consistency beats talent* 💡
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaydip_vasava__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydip-vasava-514a88317) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jaydip045) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@jaydip_vasava__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaydipvasava.315@gmail.com) 
