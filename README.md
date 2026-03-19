@@ -16,7 +16,7 @@
 
 ⚡ *Consistency beats talent* 💡
 
-## Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px">
+## Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="25px">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaydip_vasava__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydip-vasava-514a88317) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jaydip045) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@jaydip_vasava__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaydipvasava.315@gmail.com) 
 
 # 💻 Tech Stack:
