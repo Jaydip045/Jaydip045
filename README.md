@@ -22,7 +22,6 @@
 ## 🏆 GitHub Trophies/ Certificates 🏅
 [![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Certificate-red?style=for-the-badge)](https://www.linkedin.com/posts/jaydip-vasava-514a88317_ethical-hacking-cybersecurity-certification-activity-7369259176046366720-QcEc)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=Jaydip045&icon=0&color=0)](https://visitcount.itsvg.in)
