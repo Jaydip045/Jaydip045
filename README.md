@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋🏻, I'm Jaydip
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jaydip
 </h1>
 <h3 align="center">
   Backend Developer | Building Scalable Systems | Cloud & DevOps Learner
@@ -12,8 +12,8 @@
 - 🚀 Building backend projects with Java  
 - 🧠 Practicing DSA for interviews  
 - ☁️ Learning Cloud & DevOps (AWS, Docker, CI/CD)  
-- 🤝 Open to collaboration & learning  
-* Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/jaydip-dey-8a90221b2/) !
+- 🤝 Open to collaboration & learning
+- Want to connect with me ? Just drop a **Hi** 👋 [here](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) !
 
 ⚡ *Consistency beats talent* 💡
 
