@@ -13,6 +13,7 @@
 - 🧠 Practicing DSA for interviews  
 - ☁️ Learning Cloud & DevOps (AWS, Docker, CI/CD)  
 - 🤝 Open to collaboration & learning  
+* Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/jaydip-dey-8a90221b2/) !
 
 ⚡ *Consistency beats talent* 💡
 
