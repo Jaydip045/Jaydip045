@@ -2,10 +2,10 @@
   Hi 👋🏻, I'm Jaydip
 </h1>
 <h3 align="center">
-  Backend Developer | Building Scalable Systems | Cloud & DevOps Learner
+  Backend Developer | Building Scalable Systems | Cloud & DevOps
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Ideas+into+Code;Java+Backend+Developer;Problem+Solver;Future+Software+Engineer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Ideas+into+Code;Backend+Developer;Problem+Solver;Software+Engineer&center=true&width=500&height=50">
 </p>
 
 ## 💫 About Me
