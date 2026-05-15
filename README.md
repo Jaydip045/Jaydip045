@@ -1,17 +1,16 @@
 <h1 align="center">
   Hi 👋🏻, I'm Jaydip
 </h1>
-<h3 align="center">
+<!-- <h3 align="center">
   Backend Developer | Building Scalable Systems | Cloud & DevOps
 </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Ideas+into+Code;Backend+Developer;Problem+Solver;Software+Engineer&center=true&width=500&height=50">
-</p>
+</p> -->
 
 ## 💫 About Me
-- 🚀 Building backend projects with Java  
-- 🧠 Practicing DSA for interviews  
-- ☁️ Learning Cloud & DevOps (AWS, Docker, CI/CD)  
+- 🚀 Building projects  
+- ☁️ Learning Cloud & DevOps (AWS, Docker, CI/CD)
 - 🤝 Open to collaboration & learning
 - Want to connect with me ? Just drop a **Hi** 👋🏻 [here](https://www.linkedin.com/in/jaydip-vasava/) !
 
